@@ -55,7 +55,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="12,361"
+            title="2137"
             subtitle="Emails Sent"
             progress="0.75"
             increase="+14%"
@@ -74,7 +74,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="431,225"
+            title="2 137 000"
             subtitle="Sales Obtained"
             progress="0.5"
             increase="+21%"
@@ -93,7 +93,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="32,441"
+            title="21 370"
             subtitle="New Clients"
             progress="0.30"
             increase="+5%"
@@ -112,7 +112,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="1,325,134"
+            title="213 700"
             subtitle="Traffic Inbound"
             progress="0.80"
             increase="+43%"
@@ -150,7 +150,7 @@ const Dashboard = () => {
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342,32
+                $21 370
               </Typography>
             </Box>
 
