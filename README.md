@@ -6,41 +6,41 @@
 ### Includes:
 
 #### Dashboard
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/dashboard.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/dashboard.png?raw=true)
 
 #### Data
 - ManageTeam
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/ManageTeam.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/ManageTeam.png?raw=true)
 
 - Contact Information
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/ContactsInformation.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/ContactsInformation.png?raw=true)
 
 - InvoicesBalances
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/InvoicesBalances.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/InvoicesBalances.png?raw=true)
 
 #### Pages
 - Create User
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/ProfileForm.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/ProfileForm.png?raw=true)
 
 - Calendar
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/Calendar.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/Calendar.png?raw=true)
 
 - Faq Page
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/FAQ%20Page.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/FAQ%20Page.png?raw=true)
 
 ### Charts:
 
 - BarChart
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/BarChart.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/BarChart.png?raw=true)
 
 - PieChart
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/PieChart.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/PieChart.png?raw=true)
 
 - LinearChart
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/LineChart.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/LineChart.png?raw=true)
 
 - GeographyChart
-![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/react-admin/public/ScreenShots/GeographyChart.png?raw=true)
+![Login](https://github.com/Dibeisi/Admin-Dashboard/blob/main/public/ScreenShots/GeographyChart.png?raw=true)
 
 ### Packages used in the project:
 
